@@ -1,1 +1,59 @@
 /* ADD YOUR STYLES HERE */
+/* Sign-Up form */
+.form-field-label {
+	display: inline-block;
+	line-height: 30px;
+	min-width: 160px;
+	padding-right: 25px;
+	box-sizing: border-box;
+	text-align: right;
+}
+
+.form-field-inline-label {
+	padding-right: 10px;
+}
+
+.form-field-offset {
+	margin-left: 160px;
+}
+
+.form-field-group {
+	margin-bottom: 20px;
+}
+
+.form-field {
+	border: solid 1px #ccc;
+	padding: 5px;
+	border-radius: 5px;
+	width: 300px;
+	max-width: 100%;
+	margin: 3px 25px 3px 3px;
+	box-sizing: border-box;
+}
+
+.text-large {
+	width: 400px;
+}
+
+.text-medium {
+	width: 177px;
+}
+
+.text-small {
+	width: 40px;
+}
+
+input[type="checkbox"] {
+	margin-right: 10px;
+}
+
+.button1 {
+	color: #333;
+	border: 0;
+	background-color: #ccc;
+	padding: 10px 50px;
+	border-radius: 5px;
+}
+.button1:hover {
+	background-color: #ddd;
+}
